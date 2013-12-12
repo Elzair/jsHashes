@@ -1,3 +1,0 @@
-!function ($) {
-  $.ender(Hashes);
-}(ender);
